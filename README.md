@@ -1,2 +1,2 @@
 # ViciousCyclesProject
-web design project
+web development project
